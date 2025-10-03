@@ -1,75 +1,67 @@
-### Привет-привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-<a href="https://vk.com/your_profile">
-  <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
-</a>
-<a href="https://twitter.com/your_profile">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/your_profile">
-  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/your_profile">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/your_profile">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
 <br />
+<br />
+<br />
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="112px">
+  <img src="https://www.animatedimages.org/data/media/43/animated-letter-image-0187.gif" width="64" alt="E" />
+  <img src="https://www.animatedimages.org/data/media/43/animated-letter-image-0186.gif" width="64" alt="F" />
+  <img src="https://www.animatedimages.org/data/media/43/animated-letter-image-0198.gif" width="70" alt="R" />
+  <img src="https://www.animatedimages.org/data/media/43/animated-letter-image-0187.gif" width="64" alt="E" />
+  <img src="https://www.animatedimages.org/data/media/43/animated-letter-image-0213.gif" width="75" alt="A" />
+  <img src="https://www.animatedimages.org/data/media/43/animated-letter-image-0203.gif" width="72" alt="K" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="112px">
+</div>
+
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTc4cXI3OW1ob2drcnVmeW95M2R4and1NTM3YWxvbXhxanR4OTh4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SlmcCHLuy7WDnYpRnc/giphy.gif" width="350"/>
+</div>
 
 <div align="center">
   
-# <img src="https://www.animatedimages.org/data/media/43/animated-letter-image-0187.gif" width="50" alt="E" />
-<img src="https://www.animatedimages.org/data/media/43/animated-letter-image-0186.gif" width="50" alt="F" />
-<img src="https://www.animatedimages.org/data/media/43/animated-letter-image-0198.gif" width="50" alt="R" />
-<img src="https://www.animatedimages.org/data/media/43/animated-letter-image-0187.gif" width="50" alt="E" />
-<img src="https://www.animatedimages.org/data/media/43/animated-letter-image-0213.gif" width="50" alt="A" />
-<img src="https://www.animatedimages.org/data/media/43/animated-letter-image-0203.gif" width="50" alt="K" />
-
-</div>
-
-**Обо мне:**  
-Привет! Я **EFREAK** - увлеченный студент в мире IT. Постоянно изучаю новые технологии и совершенствую свои навыки в программировании. В настоящее время активно осваиваю Git и современные веб-технологии.
+  **Обо мне:**  
+  
+Привет! Я **EFREAK** - студент, увлеченный DevOps и современными IT-технологиями. Активно развиваюсь в области контейнеризации, оркестрации и автоматизации процессов. Постоянно изучаю новые инструменты для построения эффективной IT-инфраструктуры.
 
 <br />
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="280" />
 
-**🛠️ Мой технологический стек:**
+**🛠️ Мой DevOps стек:**
 
+**Containerization & Orchestration:**
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" title="Docker"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" title="Kubernetes"></code>
+
+**Automation & Configuration:**
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" title="Ansible"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="Git"></code>
+
+**Monitoring & Observability:**
+<code><img height="30" src="https://simpleicons.org/icons/prometheus.svg" title="Prometheus"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" title="Zabbix"></code>
+
+**Scripting & Development:**
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" title="Bash"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="Python"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="JavaScript"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" title="React"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" title="Vue"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" title="Node.js"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" title="MySQL"></code>
 
-**📈 Статистика GitHub:**
-
-![EFREAK's GitHub stats](https://github-readme-stats.vercel.app/api?username=EFREAK&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EFREAK&layout=compact&theme=radical)
+<br />
+<br />
 
 **🎯 Мои задачи на ближайшее время:**
 <!-- TODO-IST:START -->
 * [x] Создать крутой профиль на GitHub
-* [ ] Освоить продвинутые возможности Git
-* [ ] Завершить курс по веб-разработке
-* [ ] Создать первый open-source проект
-* [ ] Изучить Docker и контейнеризацию
+* [ ] Написать сложные Ansible playbooks
+* [ ] Освоить базовые концепты Docker и Kubernetes
+* [ ] Изучить системы мониторинга Prometheus и Zabbix
+* [ ] Развернуть полноценный CI/CD pipeline
+* [ ] Создать свой DevOps проект на GitHub
+* [ ] Изучить Terraform для Infrastructure as Code
+* [ ] Освоить Grafana для визуализации метрик
 <!-- TODO-IST:END -->
-
-**📫 Как со мной связаться:**
-- Email: your.email@domain.com
-- Telegram: @your_username
-- LinkedIn: [Ваше имя](https://linkedin.com/in/your_profile)
 
 ---
 
-<div align="center">
   
-⭐ *"Код - это поэзия, которую понимают компьютеры и восхищаются программисты"* ⭐
+⭐ *"Автоматизация направлена не на замену людей, а на усиление человеческого потенциала"* ⭐
 
 </div>
