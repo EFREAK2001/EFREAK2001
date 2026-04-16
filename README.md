@@ -8,7 +8,7 @@
   <img src="https://github.com/EFREAK2001/photo/blob/main/R.gif?raw=true" width="70" alt="R" />
   <img src="https://github.com/EFREAK2001/photo/blob/main/E.gif?raw=true" width="64" alt="E" />
   <img src="https://github.com/EFREAK2001/photo/blob/main/A.gif?raw=true" width="75" alt="A" />
-  <img src="https://github.com/EFREAK2001/photo/blob/main/K.gif?raw=true" width="72" alt="K" />
+  <img src="https://github.com/EFREAK2001/photo/blob/main/k.gif?raw=true" width="72" alt="K" />
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="112px">
 </div>
 
