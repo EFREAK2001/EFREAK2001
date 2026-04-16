@@ -9,11 +9,11 @@
   <img src="https://github.com/EFREAK2001/photo/blob/main/E.gif?raw=true" width="64" alt="E" />
   <img src="https://github.com/EFREAK2001/photo/blob/main/A.gif?raw=true" width="75" alt="A" />
   <img src="https://github.com/EFREAK2001/photo/blob/main/K.gif?raw=true" width="72" alt="K" />
-  <img src="https://github.com/EFREAK2001/photo/blob/main/woman.gif?raw=true" width="112px">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="112px">
 </div>
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTc4cXI3OW1ob2drcnVmeW95M2R4and1NTM3YWxvbXhxanR4OTh4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SlmcCHLuy7WDnYpRnc/giphy.gif" width="350"/>
+  <img src="https://github.com/EFREAK2001/photo/blob/main/women.gif?raw=true" width="350"/>
 </div>
 
 <div align="center">
