@@ -7,7 +7,7 @@
   <img src="https://www.animatedimages.org/data/media/43/animated-letter-image-0186.gif" width="64" alt="F" />
   <img src="https://www.animatedimages.org/data/media/43/animated-letter-image-0198.gif" width="70" alt="R" />
   <img src="https://www.animatedimages.org/data/media/43/animated-letter-image-0187.gif" width="64" alt="E" />
-  <img src="https://www.animatedimages.org/data/media/43/animated-letter-image-0213.gif" width="75" alt="A" />
+  <img src="https://github.com/EFREAK2001/photo/blob/main/A.gif?raw=true" width="75" alt="A" />
   <img src="https://www.animatedimages.org/data/media/43/animated-letter-image-0203.gif" width="72" alt="K" />
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="112px">
 </div>
