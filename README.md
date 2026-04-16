@@ -3,13 +3,13 @@
 <br />
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="112px">
-  <img src="https://www.animatedimages.org/data/media/43/animated-letter-image-0187.gif" width="64" alt="E" />
-  <img src="https://www.animatedimages.org/data/media/43/animated-letter-image-0186.gif" width="64" alt="F" />
-  <img src="https://www.animatedimages.org/data/media/43/animated-letter-image-0198.gif" width="70" alt="R" />
-  <img src="https://www.animatedimages.org/data/media/43/animated-letter-image-0187.gif" width="64" alt="E" />
+  <img src="https://github.com/EFREAK2001/photo/blob/main/E.gif?raw=true" width="64" alt="E" />
+  <img src="https://github.com/EFREAK2001/photo/blob/main/F.gif?raw=true" width="64" alt="F" />
+  <img src="https://github.com/EFREAK2001/photo/blob/main/R.gif?raw=true" width="70" alt="R" />
+  <img src="https://github.com/EFREAK2001/photo/blob/main/E.gif?raw=true" width="64" alt="E" />
   <img src="https://github.com/EFREAK2001/photo/blob/main/A.gif?raw=true" width="75" alt="A" />
-  <img src="https://www.animatedimages.org/data/media/43/animated-letter-image-0203.gif" width="72" alt="K" />
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="112px">
+  <img src="https://github.com/EFREAK2001/photo/blob/main/K.gif?raw=true" width="72" alt="K" />
+  <img src="https://github.com/EFREAK2001/photo/blob/main/woman.gif?raw=true" width="112px">
 </div>
 
 <div align="center">
