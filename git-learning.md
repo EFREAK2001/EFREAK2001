@@ -5,7 +5,7 @@
 ## 📸 Подтверждение прохождения
 
 <div align="center">
-  <img src="photo/git_1.png" alt="Git Learning - часть 1" width="80%">
+  <img src="https://github.com/EFREAK2001/photo/blob/main/git_1.png" alt="Git Learning - часть 1" width="80%">
   <br><em>Уровни Main, Remote – основы и удалённые репозитории</em>
 </div>
 
